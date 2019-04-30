@@ -1,23 +1,4 @@
-# Title
-
-## Learning Goals
-
--SWBAT 1
--SWBAT 2
-
-## Introduction
-
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
-
-ruby-enumerables-each-the-unexpressive-enumerable
-
-# The `.each` Enumerable
+# Each: The Unexpressive Enumerable
 
 ## Learning Goal
 
