@@ -88,13 +88,13 @@ end
 But on the other hand, you're probably just as good doing:
 
 ```ruby
-oppressed_workers = ["Dopey", "Sneezy", "Happy", "Angry", "Doc", "Lemonjello", "Undercaffinated" ]
+oppressed_workers = ["Dopey", "Sneezy", "Happy", "Angry", "Doc", "Lemonjello", "Undercaffeinated" ]
 angry_chants = oppressed_workers.map do |oppressed_worker|
   "#{oppressed_worker.capitalize} wants to start a union!"
 end
 p angry_chants
 
-#=> ["Dopey wants to start a union!", "Sneezy wants to start a union!", "Happy wants to start a union!", "Angry wants to start a union!", "Doc wants to start a union!", "Lemonjello wants to start a union!", "Underrcaffinated wants to start a union!"]
+#=> ["Dopey wants to start a union!", "Sneezy wants to start a union!", "Happy wants to start a union!", "Angry wants to start a union!", "Doc wants to start a union!", "Lemonjello wants to start a union!", "Undercaffeinated wants to start a union!"]
 ```
 
 ## List `each` Variants
