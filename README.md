@@ -34,7 +34,7 @@ end #=>
 
 We've saved talking about `each` for last. Despite the fact that `each` most
 simply expresses the "Character of Enumerable Methods," we're showing it _last_
-because we to use it _least_. Why is that?
+because we use (or _should_ use it) _least_. Why is that?
 
 ## Explain Why `each` is the Least-expressive Enumerable
 
