@@ -77,7 +77,7 @@ quite sure which Enumerable you want to use. The best use is to print out
 something to the screen:
 
 ```ruby
-oppressed_workers = ["Dopey", "Sneezy", "Happy", "Angry", "Doc", "Lemonjello", "Sleepy" ]
+oppressed_workers = ["dopey", "sneezy", "happy", "angry", "doc", "lemonjello", "sleepy" ]
 oppressed_workers.each do |oppressed_worker|
    puts "#{oppressed_worker.capitalize} wants to start a union!"
 end #=>
